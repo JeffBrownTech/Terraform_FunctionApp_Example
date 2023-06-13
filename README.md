@@ -1,6 +1,6 @@
 # Terraform_FunctionApp_Example
 
-The Terraform configuration (```main.tf```) shows how to deploy a Windows Function App along with a pipeline to deploy the function app code (```pwshfuncapp.zip```).
+The Terraform configuration (```main.tf```) shows how to deploy a Windows Function App along with a pipeline (```azure-pipelines.yml```) to deploy the function app code (```pwshfuncapp.zip```).
 
 You can read more about this example in the following article:
 
